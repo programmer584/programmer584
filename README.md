@@ -45,14 +45,11 @@ My spirit animal? The eternal student! Always learning, always exploring – and
 </div>
 
 # 🔥 GitHub Stats
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="flex: 1;">
-    ![GitHub-statistieken](https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true)
-  </div>
-  <div style="flex: 1;">
-    ![Toptalen](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" style="height: 200px; flex: 1; flex-shrink: 1;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 200px; flex: 1; flex-shrink: 1;" />
 </div>
+
 
 
 
