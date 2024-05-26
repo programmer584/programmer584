@@ -1,7 +1,10 @@
 # 💫 About Me:
-I'm not your typical IT guy! My love for computers, both hardware and software, shines through a lot of things I do. Whether I'm (dis)assembling electronics/PCs or crafting sleek websites using HTML, CSS & Javascript, I thrive on the learning process, embracing trial and error.
+I'm not your typical IT guy! My love for computers, both hardware and software, shines through a lot of things I do. Whether I'm (dis)assembling electronics/PCs or crafting sleek websites using HTML, CSS & Javascript, I thrive on the learning process, embracing trial and error.  
+
 On my personal server, I dive into virtualization (thank you, Proxmox!) and Docker, fueling my passion for self-hosting. As a fervent supporter of open source, I make safeguarding online privacy a priority.
-What's next on my journey? Soon, I'll be diving headfirst into Computer Science studies. Oh, and I'm a sucker for automatization and smart home tech.
+What's next on my journey? Soon, I'll be diving headfirst into Computer Science studies.  
+Oh, and I'm a sucker for automatization and smart home tech.  
+
 My spirit animal? The eternal student! Always learning, always exploring – and YouTube channels like NetworkChuck and Linus Tech Tips are my digital textbooks.
 
 
