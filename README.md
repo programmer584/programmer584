@@ -45,7 +45,15 @@ My spirit animal? The eternal student! Always learning, always exploring – and
 </div>
 
 # 🔥 GitHub Stats
-![GitHub-statistieken](https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true) ![Toptalen](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="flex: 1;">
+    ![GitHub-statistieken](https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true)
+  </div>
+  <div style="flex: 1;">
+    ![Toptalen](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  </div>
+</div>
+
 
 
 
