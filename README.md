@@ -54,7 +54,7 @@ My spirit animal? The eternal student! Always learning, always exploring – and
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="auto" width="100%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 
 
 ---
