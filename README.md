@@ -1,5 +1,4 @@
 # 💫 About Me
-<br>
 I'm not your typical IT guy! My love for computers, both hardware and software, shines through a lot of things I do. Whether I'm (dis)assembling electronics/PCs or crafting sleek websites using HTML, CSS & Javascript, I thrive on the learning process, embracing trial and error.  
 
 On my personal server, I dive into virtualization (thank you, Proxmox!) and Docker, fueling my passion for self-hosting. As a fervent supporter of open source, I make safeguarding online privacy a priority.
@@ -68,7 +67,6 @@ My spirit animal? The eternal student! Always learning, always exploring – and
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>  
-<br>
 <br>
 
 
