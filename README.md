@@ -45,9 +45,9 @@ My spirit animal? The eternal student! Always learning, always exploring – and
 </div>
 
 # 🔥 GitHub Stats
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: content-box !important;">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" style="height: auto; width: 49%; flex-grow: 1; box-sizing: content-box !important;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: auto; width: 49%; flex-grow: 1; box-sizing: content-box !important;" />
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: content-box !important;">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" style="flex-grow: 1; box-sizing: content-box !important;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="flex-grow: 1; box-sizing: content-box !important;" />
 </div>
 
 
