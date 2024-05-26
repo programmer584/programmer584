@@ -46,9 +46,10 @@ My spirit animal? The eternal student! Always learning, always exploring – and
 
 # 🔥 GitHub Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" style="height: 200px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 200px; width: auto;" />
 </div>
+
 
 
 # 🏆 GitHub Trophies
