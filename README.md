@@ -13,7 +13,7 @@ My spirit animal? The eternal student! Always learning, always exploring – and
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer584&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=programmer584&theme=radical&no-frame=true&no-bg=false&margin-w=4)
