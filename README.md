@@ -53,8 +53,10 @@ My spirit animal? The eternal student! Always learning, always exploring – and
 ![](https://github-profile-trophy.vercel.app/?username=programmer584&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 
 
 ---
