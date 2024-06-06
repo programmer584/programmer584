@@ -5,7 +5,7 @@ On my personal server, I dive into virtualization (thank you, Proxmox!) and Dock
 What's next on my journey? Soon, I'll be diving headfirst into Computer Science studies.  
 Oh, and I'm a sucker for automatization and smart home tech.  
 
-My spirit animal? The eternal student! Always learning, always exploring – and YouTube channels like NetworkChuck and Linus Tech Tips are my digital textbooks.  
+My spirit animal? The eternal student! Always learning, always exploring – and YouTube channels like NetworkChuck and Linus Tech Tips are my digital textbooks. However, I don't like textbooks though.  
 <br>
 <br>
 
