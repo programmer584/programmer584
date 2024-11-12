@@ -1,5 +1,5 @@
 # 💫 About Me
-Not your average tech enthusiast! Now adding Computer Science to my tech journey, I'm diving into the core of programming and problem-solving through hands-on projects and real-world challenges. My love for computers, both hardware and software, drives me to explore and learn in my own way—whether it’s (dis)assembling electronics, crafting sleek websites with HTML, CSS, & JavaScript, or embracing the trial-and-error process.
+I'm not your typical IT guy! Now adding Computer Science to my tech journey, I'm diving into the core of programming and problem-solving through hands-on projects and real-world challenges. My love for computers, both hardware and software, drives me to explore and learn in my own way—whether it’s (dis)assembling electronics, crafting sleek websites with HTML, CSS, & JavaScript, or embracing the trial-and-error process.
 
 Running my personal server with Proxmox and Docker keeps my passion for self-hosting and virtualization alive. As a dedicated open-source advocate, I’m serious about online privacy and love experimenting with automation and smart home tech.
 
